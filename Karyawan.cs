@@ -9,19 +9,15 @@ namespace ResponsiPemograman3403
         public double gaji;
         public Karyawan(string Nik, String Nama, double Gaji)
         {
-            nik = Nik;
-            nama = Nama;
-            if (Gaji <= 0 )
-            {
-                gaji = 0;
-            }
-            else {
-                gaji = Gaji;
-            }
+            this.nik = Nik;
+            this.nama = Nama;
+            this.gaji = Gaji;
+            if (Gaji <= 0)
+                this.gaji = 0;
         }
         public void NaikGaji() 
         {
-            gaji = (gaji+0.0) + (gaji * (10.0/100.0));
+            this.gaji = (this.gaji+0.0) + (this.gaji * (10.0/100.0));
         }
 
         
