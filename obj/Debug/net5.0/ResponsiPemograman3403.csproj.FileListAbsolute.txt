@@ -1,0 +1,16 @@
+/home/xuzer/Documents/Projek/Pemograman/ResponsiPemograman3403/bin/Debug/net5.0/ResponsiPemograman3403
+/home/xuzer/Documents/Projek/Pemograman/ResponsiPemograman3403/bin/Debug/net5.0/ResponsiPemograman3403.deps.json
+/home/xuzer/Documents/Projek/Pemograman/ResponsiPemograman3403/bin/Debug/net5.0/ResponsiPemograman3403.runtimeconfig.json
+/home/xuzer/Documents/Projek/Pemograman/ResponsiPemograman3403/bin/Debug/net5.0/ResponsiPemograman3403.runtimeconfig.dev.json
+/home/xuzer/Documents/Projek/Pemograman/ResponsiPemograman3403/bin/Debug/net5.0/ResponsiPemograman3403.dll
+/home/xuzer/Documents/Projek/Pemograman/ResponsiPemograman3403/bin/Debug/net5.0/ref/ResponsiPemograman3403.dll
+/home/xuzer/Documents/Projek/Pemograman/ResponsiPemograman3403/bin/Debug/net5.0/ResponsiPemograman3403.pdb
+/home/xuzer/Documents/Projek/Pemograman/ResponsiPemograman3403/obj/Debug/net5.0/ResponsiPemograman3403.csprojAssemblyReference.cache
+/home/xuzer/Documents/Projek/Pemograman/ResponsiPemograman3403/obj/Debug/net5.0/ResponsiPemograman3403.GeneratedMSBuildEditorConfig.editorconfig
+/home/xuzer/Documents/Projek/Pemograman/ResponsiPemograman3403/obj/Debug/net5.0/ResponsiPemograman3403.AssemblyInfoInputs.cache
+/home/xuzer/Documents/Projek/Pemograman/ResponsiPemograman3403/obj/Debug/net5.0/ResponsiPemograman3403.AssemblyInfo.cs
+/home/xuzer/Documents/Projek/Pemograman/ResponsiPemograman3403/obj/Debug/net5.0/ResponsiPemograman3403.csproj.CoreCompileInputs.cache
+/home/xuzer/Documents/Projek/Pemograman/ResponsiPemograman3403/obj/Debug/net5.0/ResponsiPemograman3403.dll
+/home/xuzer/Documents/Projek/Pemograman/ResponsiPemograman3403/obj/Debug/net5.0/ref/ResponsiPemograman3403.dll
+/home/xuzer/Documents/Projek/Pemograman/ResponsiPemograman3403/obj/Debug/net5.0/ResponsiPemograman3403.pdb
+/home/xuzer/Documents/Projek/Pemograman/ResponsiPemograman3403/obj/Debug/net5.0/ResponsiPemograman3403.genruntimeconfig.cache
